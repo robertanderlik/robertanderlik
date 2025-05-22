@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertanderlik
-- 👀 I’m interested in Java, Groovy, Python, C/C++ and C#
+- 👀 I’m interested in Typescript, Java, Groovy, Python, C/C++ and C#
 - 🌱 I’m currently learning how to integrate AI into my work live
 - 💞️ I’m looking to collaborate with new people
 - 📫 How to reach me - try linked in
